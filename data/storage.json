@@ -1,0 +1,38 @@
+{
+  "lists": {
+    "test1": {
+      "owner_guild_id": "651778808508317707",
+      "shared": false,
+      "images": {
+        "test-1": {
+          "sha256": "08be5536f38873f5b4d5706b631257ab792745ccac5c5946e00aab6ca5398730",
+          "filename": "stack-boast-square.png",
+          "content_type": "image/png",
+          "size": 753401,
+          "created_at": "2026-02-14T11:48:25.677521+00:00"
+        },
+        "test-2": {
+          "sha256": "2bce2015282d0bf41fab62128220677d8d838ad44de6c9551fd327b03dfec6e8",
+          "filename": "IMG_3059.jpg",
+          "content_type": "image/jpeg",
+          "size": 2097935,
+          "created_at": "2026-02-14T11:49:51.733894+00:00"
+        },
+        "test-3": {
+          "sha256": "9912db2d3adab7a1cb2a59494e3184c89494578d9ebd27b0a49e7ce85967501d",
+          "filename": "coffee-1.png",
+          "content_type": "image/png",
+          "size": 77285,
+          "created_at": "2026-02-14T11:50:52.743425+00:00"
+        }
+      }
+    }
+  },
+  "guilds": {
+    "651778808508317707": {
+      "registered_lists": [
+        "test1"
+      ]
+    }
+  }
+}
